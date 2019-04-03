@@ -1,7 +1,7 @@
 # Genetic-Learning-Project
 (Genetic Learning Project)
 
-Sander
+
 
 
                               Graphics Display

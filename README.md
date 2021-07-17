@@ -1,6 +1,5 @@
 # Genetic-Learning-Project
 (Genetic Learning Project)
--Xiu Liang
 
 
 
